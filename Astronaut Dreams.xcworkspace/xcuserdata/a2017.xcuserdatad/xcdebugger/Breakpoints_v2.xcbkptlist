@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CF2FF022-BDAB-446A-AE67-23EAAE4B51D6"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D8CE15B-D0E0-4516-B09A-532D6D32B02C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Astronaut/newentry.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "submit_dream_entry(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "374CB3F7-5FDF-42DE-BC71-257B046CA449"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Astronaut/newentry.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "submit_dream_entry(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8F09312-F97B-46EE-A93E-010B7E09414C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Astronaut/newentry.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "submit_dream_entry(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B2478FC-B426-400F-8E63-CB26DD78DED2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Astronaut/newentry.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "submit_dream_entry(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BFD2192-6A30-4B59-A077-F4C4EE15C656"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Astronaut/showdreams.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "showdreams"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2BFD2192-6A30-4B59-A077-F4C4EE15C656 - ca3261e24706c8f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Astronaut_Dreams.showdreams.dream_array.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Astronaut Dreams"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a2017/Downloads/gita2/Astronaut_Dreams/untitled%20folder/Untitled/Astronaut/showdreams.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "2BFD2192-6A30-4B59-A077-F4C4EE15C656 - a2282a3164080c06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Astronaut_Dreams.showdreams.dream_array.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Astronaut Dreams"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a2017/Downloads/gita2/Astronaut_Dreams/untitled%20folder/Untitled/Astronaut/showdreams.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "2BFD2192-6A30-4B59-A077-F4C4EE15C656 - 151a916e1aa56e32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Astronaut_Dreams.showdreams.dream_array.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Astronaut Dreams"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a2017/Downloads/gita2/Astronaut_Dreams/untitled%20folder/Untitled/Astronaut/showdreams.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "2BFD2192-6A30-4B59-A077-F4C4EE15C656 - 9d97f247eae4a18b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Astronaut_Dreams.showdreams.dream_array.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Astronaut Dreams"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a2017/Downloads/gita2/Astronaut_Dreams/untitled%20folder/Untitled/Astronaut/showdreams.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "2BFD2192-6A30-4B59-A077-F4C4EE15C656 - 9d9f422921a0eee9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Astronaut_Dreams.showdreams.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Astronaut_Dreams.showdreams"
+                  moduleName = "Astronaut Dreams"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a2017/Downloads/gita2/Astronaut_Dreams/untitled%20folder/Untitled/Astronaut/showdreams.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "469">
+               </Location>
+               <Location
+                  uuid = "2BFD2192-6A30-4B59-A077-F4C4EE15C656 - eb06e5d18dc28813"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Astronaut_Dreams.showdreams.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Astronaut_Dreams.showdreams&gt;"
+                  moduleName = "Astronaut Dreams"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a2017/Downloads/gita2/Astronaut_Dreams/untitled%20folder/Untitled/Astronaut/showdreams.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "417">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53A683E7-4CC7-4ECE-8401-4C359F8CE445"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Astronaut/showdreams.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "refreshdreamlist()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8DEC1D4-D105-4A38-839F-C02EAC902584"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Astronaut/showdreams.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "refreshdreamlist()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
