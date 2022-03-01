@@ -9,15 +9,16 @@
 import UIKit
 import Font_Awesome_Swift
 import SwiftMessages
-// Newly added changes
-
-
+//tester
+//hello world
+//ola
 class showdreams: UIViewController {
     
     //Test pull, commit, push, pull
     //UIElements linked to the main storyboard
     //Written code for loading bar - complete
-    //abc
+    //jwbdjkwbk
+    //pull test
     @IBOutlet weak var scroller: UIScrollView!
     @IBOutlet weak var search_space: UITextField!
     @IBOutlet weak var tagscroller: UIScrollView!
